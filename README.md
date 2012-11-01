@@ -1,6 +1,6 @@
 # minecraft
 
-Bits and pieces for BitFolk's Minecaft server.
+Bits and pieces for BitFolk's Minecraft server.
 
 *   overviewer
     
